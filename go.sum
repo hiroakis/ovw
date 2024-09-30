@@ -1,0 +1,8 @@
+github.com/AdrianLungu/decimal v0.0.0-20160513203630-9d980d3d4d03 h1:c6bkw7WM0hm/TxMnPFhTYuPj+9BnklyPZuoox21VR4M=
+github.com/AdrianLungu/decimal v0.0.0-20160513203630-9d980d3d4d03/go.mod h1:9/eJh32Tuj2UIuAT4Tp2Ah6XueCU9Kk9tAgZHHVLIdM=
+github.com/fatih/structs v1.1.0 h1:Q7juDM0QtcnhCpeyLGQKyg4TOIghuNXrkL32pHAUMxo=
+github.com/fatih/structs v1.1.0/go.mod h1:9NiDSp5zOcgEDl+j00MP/WkGVPOlPRLejGD8Ga6PJ7M=
+github.com/mitchellh/mapstructure v1.5.0 h1:jeMsZIYE/09sWLaz43PL7Gy6RuMjD2eJVyuac5Z2hdY=
+github.com/mitchellh/mapstructure v1.5.0/go.mod h1:bFUtVrKA4DC2yAKiSyO/QUcy7e+RRV2QTWOzhPopBRo=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=

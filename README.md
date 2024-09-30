@@ -27,14 +27,6 @@ go get -u github.com/achiku/ovw
 
 Pull requests for new features, bug fixes, and suggestions are welcome!
 
-### Install gom
-
-This project is using [gom](https://github.com/mattn/gom) for dependency management.
-
-```
-$ go get -u github.com/mattn/gom
-$ gom install
-```
 
 ### Test
 

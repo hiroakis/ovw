@@ -1,4 +1,0 @@
-gom 'github.com/fatih/structs'
-gom 'github.com/mitchellh/mapstructure'
-gom 'github.com/pkg/errors'
-gom 'github.com/AdrianLungu/decimal'
